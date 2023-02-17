@@ -1,0 +1,20 @@
+{
+  "name": "divider",
+  "displayName": "Divider",
+  "description": "Print a divider easily in your Python, Java or C files.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
