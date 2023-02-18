@@ -3,17 +3,46 @@
   "displayName": "Divider",
   "description": "Print a divider easily in your Python, Java or C files.",
   "version": "0.0.1",
+  "license": "MIT",
+  "icon": "logo.png",
+  "author": {
+    "name": "XuangeAha"
+  },
+  "homepage": "https://github.com/Xuangeaha/Divider",
+  "repository": {
+    "url": "https://github.com/Xuangeaha/Divider"
+  },
+  "bugs": {
+    "url": "https://github.com/Xuangeaha/Divider/issues"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
-    "Snippets"
+    "Azure",
+    "Data Science",
+    "Debuggers",
+    "Education",
+    "Formatters",
+    "Keymaps",
+    "Language Packs",
+    "Linters",
+    "Machine Learning",
+    "Notebooks",
+    "Programming Languages",
+    "SCM Providers",
+    "Snippets",
+    "Testing",
+    "Themes",
+    "Visualization",
+    "Extension Packs",
+    "Other"
   ],
   "contributes": {
     "snippets": [
       {
-        "language": "javascript",
-        "path": "./snippets/snippets.code-snippets"
+        "language": "python",
+        "path": "./snippets/python.json"
       }
     ]
   }
