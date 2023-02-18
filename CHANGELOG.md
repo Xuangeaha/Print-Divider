@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## 0.0.1 2023-02-18
 
-Add language support for Python, Java and C.
+Add language support for `Python`, `Java` and `C`.
