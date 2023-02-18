@@ -9,12 +9,12 @@
   "author": {
     "name": "XuangeAha"
   },
-  "homepage": "https://github.com/Xuangeaha/Divider",
+  "homepage": "https://github.com/Xuangeaha/Print-Divider",
   "repository": {
-    "url": "https://github.com/Xuangeaha/Divider"
+    "url": "https://github.com/Xuangeaha/Print-Divider"
   },
   "bugs": {
-    "url": "https://github.com/Xuangeaha/Divider/issues"
+    "url": "https://github.com/Xuangeaha/Print-Divider/issues"
   },
   "engines": {
     "vscode": "^1.75.0"

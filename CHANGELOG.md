@@ -10,6 +10,8 @@ Add `keywords` to package.json.
 
 Redesign the `icon`.
 
+Repository migration.
+
 ## 0.0.1 2023-02-18
 
 Add language support for `Python`, `Java` and `C`.
