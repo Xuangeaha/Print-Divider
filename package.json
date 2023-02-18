@@ -3,7 +3,7 @@
   "publisher": "XuangeAha",
   "displayName": "Print Divider",
   "description": "Print a divider easily in your Python, Java or C files.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
@@ -38,6 +38,33 @@
     "Visualization",
     "Extension Packs",
     "Other"
+  ],
+  "keywords": [
+    "divider",
+    "print",
+    "code",
+    "coding",
+    "codings",
+    "py",
+    "python",
+    "jupyter",
+    "java",
+    "php",
+    "js",
+    "javascript",
+    "c",
+    "c++",
+    "c#",
+    "html",
+    "css",
+    "debug",
+    "debugger",
+    "debuggers",
+    "divide",
+    "git",
+    "github",
+    "vs",
+    "vscode"
   ],
   "contributes": {
     "snippets": [
