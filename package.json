@@ -1,7 +1,7 @@
 {
-  "name": "divider",
+  "name": "print-divider",
   "publisher": "XuangeAha",
-  "displayName": "Divider",
+  "displayName": "Print Divider",
   "description": "Print a divider easily in your Python, Java or C files.",
   "version": "0.0.1",
   "license": "MIT",

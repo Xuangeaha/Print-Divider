@@ -1,20 +1,20 @@
-# Divider
+# Print Divider
 
 Print a divider easily in your Python, Java or C files.
 
 在你的Python, Java或C文件中轻松地打印一个分隔符。
 
-**Homepage/主页**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.divider)
+**Homepage/主页**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider)
 
-**Repository/仓库**: [`https://github.com/Xuangeaha/divider`](https://github.com/Xuangeaha/divider)
+**Repository/仓库**: [`https://github.com/Xuangeaha/print-divider`](https://github.com/Xuangeaha/print-divider)
 
-**Issues/问题**: [`https://github.com/Xuangeaha/divider/issues`](https://github.com/Xuangeaha/divider/issues)
+**Issues/问题**: [`https://github.com/Xuangeaha/print-divider/issues`](https://github.com/Xuangeaha/print-divider/issues)
 
-**Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.divider/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.divider/changelog)
+**Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.print-divider/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.print-divider/changelog)
 
-**License/许可证**: [`https://marketplace.visualstudio.com/items/XuangeAha.divider/license`](https://marketplace.visualstudio.com/items/XuangeAha.divider/license)
+**License/许可证**: [`https://marketplace.visualstudio.com/items/XuangeAha.print-divider/license`](https://marketplace.visualstudio.com/items/XuangeAha.print-divider/license)
 
-**Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.divider)
+**Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider)
 
 **Copyright (c) 2023 XuangeAha/轩哥啊哈OvO**
 
