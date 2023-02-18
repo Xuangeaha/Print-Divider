@@ -1,5 +1,6 @@
 {
   "name": "divider",
+  "publisher": "XuangeAha",
   "displayName": "Divider",
   "description": "Print a divider easily in your Python, Java or C files.",
   "version": "0.0.1",
@@ -43,6 +44,14 @@
       {
         "language": "python",
         "path": "./snippets/python.json"
+      },
+      {
+        "language": "java",
+        "path": "./snippets/java.json"
+      },
+      {
+        "language": "c",
+        "path": "./snippets/c.json"
       }
     ]
   }

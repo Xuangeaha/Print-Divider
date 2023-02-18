@@ -20,4 +20,5 @@ Print a divider easily in your Python, Java or C files.
 
 # How To Use 使用方法
 
+
 **Enjoy!**
