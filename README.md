@@ -1,8 +1,8 @@
 # Print Divider
 
-Print a divider easily in your Python, Java or C files.
+Print a divider easily in your Python, Java, C, PHP, C#, JavaScript or TypeScript files.
 
-在你的Python, Java或C文件中轻松地打印一个分隔符。
+在你的Python, Java, C, PHP, C#, JavaScript或TypeScript文件中轻松地打印一个分隔符。
 
 **Homepage/主页**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider)
 
@@ -44,6 +44,30 @@ System.out.println("--------------------------------------------------");
 
 ```c
 printf("--------------------------------------------------");
+```
+
+## PHP
+
+```php
+echo "--------------------------------------------------";
+```
+
+## C#
+
+```csharp
+Console.writeline(\"--------------------------------------------------\");
+```
+
+## JavaScript
+
+```javascript
+Console.log(\"--------------------------------------------------\");
+```
+
+## TypeScript
+
+```typescript
+Console.log(\"--------------------------------------------------\");
 ```
 
 **Enjoy!**

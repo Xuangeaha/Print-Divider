@@ -2,8 +2,8 @@
   "name": "print-divider",
   "publisher": "XuangeAha",
   "displayName": "Print Divider",
-  "description": "Print a divider easily in your Python, Java or C files.",
-  "version": "0.0.2",
+  "description": "Print a divider easily in your Python, Java, C, PHP, C#, JavaScript or TypeScript files.",
+  "version": "0.1.0",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
@@ -79,6 +79,22 @@
       {
         "language": "c",
         "path": "./snippets/c.json"
+      },
+      {
+        "language": "php",
+        "path": "./snippets/php.json"
+      },
+      {
+        "language": "c#",
+        "path": "./snippets/c#.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/javascript.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/typescript.json"
       }
     ]
   }
