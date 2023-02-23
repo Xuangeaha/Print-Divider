@@ -2,8 +2,8 @@
   "name": "print-divider",
   "publisher": "XuangeAha",
   "displayName": "Print Divider",
-  "description": "Print a divider easily in your Python, Java, C, PHP, C#, JavaScript or TypeScript files.",
-  "version": "0.1.1",
+  "description": "Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua or Julia files.",
+  "version": "0.2.0",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
@@ -64,7 +64,30 @@
     "git",
     "github",
     "vs",
-    "vscode"
+    "vscode",
+    "typescript",
+    "r",
+    "go",
+    "rust",
+    "swift",
+    "ruby",
+    "kotlin",
+    "objective",
+    "objectivec",
+    "objective-c",
+    "lua",
+    "julia",
+    "easy",
+    "lazy",
+    "div",
+    "all",
+    "language",
+    "languages",
+    "lan",
+    "lang",
+    "pro",
+    "program",
+    "programming"
   ],
   "contributes": {
     "snippets": [
@@ -95,6 +118,42 @@
       {
         "language": "typescript",
         "path": "./snippets/typescript.json"
+      },
+      {
+        "language": "r",
+        "path": "./snippets/r.json"
+      },
+      {
+        "language": "go",
+        "path": "./snippets/go.json"
+      },
+      {
+        "language": "rust",
+        "path": "./snippets/rust.json"
+      },
+      {
+        "language": "swift",
+        "path": "./snippets/swift.json"
+      },
+      {
+        "language": "ruby",
+        "path": "./snippets/ruby.json"
+      },
+      {
+        "language": "kotlin",
+        "path": "./snippets/kotlin.json"
+      },
+      {
+        "language": "objective-c",
+        "path": "./snippets/objective-c.json"
+      },
+      {
+        "language": "lua",
+        "path": "./snippets/lua.json"
+      },
+      {
+        "language": "julia",
+        "path": "./snippets/julia.json"
       }
     ]
   }

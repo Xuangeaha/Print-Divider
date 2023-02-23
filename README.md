@@ -1,8 +1,8 @@
 # Print Divider
 
-Print a divider easily in your Python, Java, C, PHP, C#, JavaScript or TypeScript files.
+Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua or Julia files.
 
-在你的Python, Java, C, PHP, C#, JavaScript或TypeScript文件中轻松地打印一个分隔符。
+在你的Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua或Julia文件中轻松地打印一个分隔符。
 
 **Homepage/主页**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider)
 
@@ -27,6 +27,10 @@ Print a divider easily in your Python, Java, C, PHP, C#, JavaScript or TypeScrip
 3、Divider will automatically be added to the file.  分隔符将自动加入文件中。
 
 # Language Supports 语言支持
+
+Language supports avaliable for: **Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua, Julia**.
+
+支持的语言：**Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua, Julia。**
 
 ## Python
 
@@ -68,6 +72,60 @@ Console.log("--------------------------------------------------");
 
 ```typescript
 Console.log("--------------------------------------------------");
+```
+
+## R
+
+```python
+print ( "--------------------------------------------------" )
+```
+
+## Go
+
+```go
+fmt.Println("--------------------------------------------------")
+```
+
+## Rust
+
+```rust
+println!("--------------------------------------------------");
+```
+
+## Swift
+
+```swift
+print("--------------------------------------------------")
+```
+
+## Ruby
+
+```ruby
+puts "--------------------------------------------------"
+```
+
+## Kotlin
+
+```kotlin
+println("--------------------------------------------------")
+```
+
+## Objective-C
+
+```objectivec
+NSLog(@"--------------------------------------------------");
+```
+
+## Lua
+
+```lua
+print("--------------------------------------------------")
+```
+
+## Julia
+
+```julia
+print("--------------------------------------------------")
 ```
 
 **Enjoy!**
