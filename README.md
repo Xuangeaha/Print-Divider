@@ -1,8 +1,12 @@
 # Print Divider
 
-Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua or Julia files.
+[![Version](https://vsmarketplacebadges.dev/version/xuangeaha.print-divider.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider) [![Installs](https://vsmarketplacebadges.dev/installs/xuangeaha.print-divider.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider) [![Downloads](https://vsmarketplacebadges.dev/downloads/xuangeaha.print-divider.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider) [![Rating Short](https://vsmarketplacebadges.dev/rating-short/xuangeaha.print-divider.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider) [![Rating Star](https://vsmarketplacebadges.dev/rating-star/xuangeaha.print-divider.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider)
 
-在你的Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua或Julia文件中轻松地打印一个分隔符。
+[![TrendingDaily](https://vsmarketplacebadges.dev/trending-daily/xuangeaha.print-divider.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider) [![TrendingWeekly](https://vsmarketplacebadges.dev/trending-weekly/xuangeaha.print-divider.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider) [![TrendingMonthly](https://vsmarketplacebadges.dev/trending-monthly/xuangeaha.print-divider.svg?&colorB=blue)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.print-divider)
+
+Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Objective-C, Lua or Julia files.
+
+在你的Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Objective-C, Lua或Julia文件中轻松地打印一个分隔符。
 
 **Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
 
@@ -26,7 +30,7 @@ Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript,
 
 # Language Supports 语言支持
 
-**Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua, Julia**
+**Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Objective-C, Lua, Julia**
 
 ## Python
 
@@ -98,12 +102,6 @@ print("--------------------------------------------------")
 
 ```ruby
 puts "--------------------------------------------------"
-```
-
-## Kotlin
-
-```kotlin
-println("--------------------------------------------------")
 ```
 
 ## Objective-C

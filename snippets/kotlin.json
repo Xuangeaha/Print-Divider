@@ -1,9 +1,0 @@
-{
-    "Divider": {
-        "prefix": "div",
-        "body": [
-          "println(\"--------------------------------------------------\")"
-        ],
-        "description": "Divider"
-      }
-}
