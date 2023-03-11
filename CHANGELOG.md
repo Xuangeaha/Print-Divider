@@ -4,6 +4,18 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.1 2023-03-11
+
+Update the `keywords`.
+
+Repair bug (*PD-3*):
+
+```plaintext
+Unknown language in `contributes.print-divider.language`. Provided value: kotlin
+
+"contributes.print-divider.language" 中包含未知语言。提供的值: kotlin
+```
+
 ## 0.3.0 2023-03-04
 
 Remove language support for `kotlin`.
