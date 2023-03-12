@@ -4,6 +4,17 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.2 2023-03-11
+
+Repair bug (*PD-4*):
+
+```plaintext
+[error] PackageIntegrityCheckFailed: Signature: PackageIntegrityCheckFailed
+    at yt.download (vscode-file://vscode-app/d:/Microsoft%20VS%20Code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:468)
+    at async X.x (vscode-file://vscode-app/d:/Microsoft%20VS%20Code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:20760)
+    at async X.h (vscode-file://vscode-app/d:/Microsoft%20VS%20Code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:18897)
+```
+
 ## 0.3.1 2023-03-11
 
 Update the `keywords`.
