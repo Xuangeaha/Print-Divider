@@ -20,7 +20,7 @@ Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript,
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.print-divider)
 
-**Copyright (c) 2023 XuangeAha/轩哥啊哈OvO**
+**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
 
 # How To Use 使用方法
 
