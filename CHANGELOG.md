@@ -4,6 +4,10 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2023.4.0 2023-03-18
+
+Release version officially release.
+
 ## 0.3.3 2023-03-12
 
 Update `MIT License`.
