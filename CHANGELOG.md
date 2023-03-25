@@ -4,6 +4,15 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2023.4.1 2023-03-25
+
+Repair `C#` snippets (`PD-5`):
+
+```csharp
+Console.writeline("") -> Console.WriteLine("")
+```
+
+
 ## 2023.4.0 2023-03-18
 
 Release version officially release.
@@ -14,7 +23,7 @@ Update `MIT License`.
 
 ## 0.3.2 2023-03-11
 
-Repair bug (*PD-4*):
+Repair bug (`PD-4`):
 
 ```plaintext
 [error] PackageIntegrityCheckFailed: Signature: PackageIntegrityCheckFailed
@@ -27,7 +36,7 @@ Repair bug (*PD-4*):
 
 Update the `keywords`.
 
-Repair bug (*PD-3*):
+Repair bug (`PD-3`):
 
 ```plaintext
 Unknown language in `contributes.print-divider.language`. Provided value: kotlin
@@ -39,7 +48,7 @@ Unknown language in `contributes.print-divider.language`. Provided value: kotlin
 
 Remove language support for `kotlin`.
 
-Repair bug (*PD-2*):
+Repair bug (`PD-2`):
 
 ```plaintext
 Unknown language in "contributes.print-divider.language". Provided value: kotlin
@@ -53,7 +62,7 @@ Optimize `README.MD`.
 
 ## 0.2.1 2023-02-27
 
-Repair bug (*PD-1*):
+Repair bug (`PD-1`):
 
 ```plaintext
 Unknown language in "contributes.print-divider.language". Provided value: c#
