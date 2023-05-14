@@ -3,7 +3,7 @@
   "publisher": "XuangeAha",
   "displayName": "Print Divider",
   "description": "Print a divider easily in your Python, Java, C, PHP, C#, JavaScript, TypeScript, R, Go, Rust, Swift, Ruby, Kotlin, Objective-C, Lua or Julia files.",
-  "version": "2023.4.1",
+  "version": "2023.4.2",
   "license": "MIT",
   "icon": "logo.png",
   "author": {
@@ -11,10 +11,15 @@
   },
   "homepage": "https://github.com/Xuangeaha/Print-Divider",
   "repository": {
+    "type": "git",
     "url": "https://github.com/Xuangeaha/Print-Divider"
   },
   "bugs": {
     "url": "https://github.com/Xuangeaha/Print-Divider/issues"
+  },
+  "galleryBanner": {
+      "color": "#87CEFA",
+      "theme": "light"
   },
   "engines": {
     "vscode": "^1.75.0"

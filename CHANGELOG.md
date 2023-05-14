@@ -4,6 +4,10 @@ All notable changes to the "divider" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 2023.4.2 2023-05-14
+
+Add `galleryBanner` to the vsmarketplace page.
+
 ## 2023.4.1 2023-03-25
 
 Repair `C#` snippets (`PD-5`):
@@ -11,7 +15,6 @@ Repair `C#` snippets (`PD-5`):
 ```csharp
 Console.writeline("") -> Console.WriteLine("")
 ```
-
 
 ## 2023.4.0 2023-03-18
 
